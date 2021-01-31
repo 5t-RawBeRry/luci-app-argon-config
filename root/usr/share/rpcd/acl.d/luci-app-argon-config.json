@@ -1,0 +1,11 @@
+{
+    "luci-argon-config": {
+        "description": "Luci Argon Display ",
+        "read": {
+            "uci": [ "argon" ]
+        },
+        "write": {
+            "uci": [ "argon" ]
+        }
+    }
+}
